@@ -84,6 +84,7 @@ font-size: 11px;
 }
 .card--color .autor__par1{
   color: hsl(0, 0%, 100%);
+  font-size: 18px;
  opacity: 1;
   font-weight: 700;
 }
@@ -107,6 +108,7 @@ font-size: 11px;
 }
 .card--none--color .autor__par1{
   color: hsl(219, 29%, 14%);
+  font-size: 18px;
   opacity: 0.9;
   font-weight: 700;
 }
